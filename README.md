@@ -1,5 +1,4 @@
 ## WheelView项目介绍
-[ WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
 
 ### 0. 系列文章
 - [1. 自定义View入门学习-OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
@@ -21,6 +20,7 @@
 - 基础触摸事件学习
 
 ### 5. 博客地址
+[ WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
 
 
 
